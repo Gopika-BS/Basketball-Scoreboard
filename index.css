@@ -39,11 +39,13 @@ h3 {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-.score span {
   font-weight: 400;
   font-size: 90px;
 }
+/* .score span {
+  font-weight: 400;
+  font-size: 90px;
+} */
 #btn {
   font-family: Cursed Timer ULiL;
   color: #9aabd8;
